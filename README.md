@@ -1,6 +1,6 @@
-# Name of Your Cafe
+# KU International Cafe
 
-Write a one or two sentence description of your cafe.
+We have cultural representative foods from 5 different Asia countries.
 
 ## [Menu](menu.md)
 
