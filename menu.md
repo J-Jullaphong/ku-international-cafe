@@ -1,6 +1,7 @@
 ## Menu
 
-[Thai Food](#thai-food) | ...
+ [Thai Food](#thai-food) | [Chinese Food](#chinese-food) | ...
+
 
 ## Thai Food
 
@@ -11,3 +12,14 @@
 | **Pad Thai**          | A stir-fried rice noodles combined with ingredients like eggs, tofu or shrimp, and a flavorful blend of tamarind, fish sauce, and various seasonings. | <img src="images/pad-thai.jpg" width="400">          |    79 |
 | **Papaya Salad**      | A northeastern region dish made with shredded green papaya mixed with ingredients like tomatoes, chili peppers, garlic, fish sauce, and lime juice.   | <img src="images/papaya-salad.jpg" width="400">      |    59 |
 | **Mango Sticky Rice** | A Thai dessert that pairs the sweetness of ripe mango slices with sticky glutinous rice, typically drizzled with a rich and creamy coconut sauce.     | <img src="images/mango-sticky-rice.jpg" width="400"> |    69 |
+
+
+## Chinese Food
+
+| Name                               | Description                                                                                                                                                                                       |                                              | Price |
+|:------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|------:|
+| **Soup Dumplings (Xiao Long Bao)** | Dumplings with the soup inside.                                                                                                                                                                   | <img src= "images/xiao.jpg" width="400">     |   110 |
+| **Spring Rolls**                   | Dim sum stuffed with vegetables or meat and wrapped in thin dough wrappers.                                                                                                                       | <img src= "images/springr.jpg" width="400">  |   100 |
+| **Peking Roasted Duck**            | Marinated duck with crispy skin, served with thin pancakes, scallions, cucumber, and hoisin sauce.                                                                                                | <img src= "images/duck.jpg" width="400">     |   700 |
+| **Sichuan Pork**                   | Pork, with a coating made from egg-white and starch to preserve its freshness and tenderness, is boiled in broth. The meaty broth is typical Sichuan cuisine, featuring a peppery and spicy taste | <img src= "images/pork.jpg" width="400">     |   200 |
+| **Zhajiangmian**                   | Thick wheat noodle dish topped with zhajiang sauce.                                                                                                                                               | <img src= "images/zhajiang.jpg" width="400"> |   150 |
