@@ -1,6 +1,6 @@
 ## Menu
 
- [Thai Food](#thai-food) | [Chinese Food](#chinese-food) | [Korean Food](#korean-food) | ...
+ [Thai Food](#thai-food) | [Chinese Food](#chinese-food) | [Korean Food](#korean-food) | [Indian Food](#indian-food) | ...
 
 
 ## Thai Food
@@ -34,3 +34,14 @@
 | **Tteokbokki**           | Tteokbokki is a popular Korean street food made from chewy rice cakes cooked in a spicy and savory gochujang sauce, offering a delightful blend of flavors and textures.                                                     | <img src="images/tteokbokki.jpeg" width="400">           |   120 |
 | **Bulgogi**              | Bulgogi is a beloved Korean dish of thinly sliced marinated beef, typically grilled or pan-fried, known for its tender texture and sweet-savory flavors.                                                                     | <img src="images/bulgogi.jpeg" width="400">              |   150 |
 | **Korean Fried Chicken** | Korean fried chicken is a crispy and flavorful dish with a distinct double-frying process, often coated in a variety of sauces ranging from sweet and spicy to tangy and savory.                                             | <img src="images/korean fried chicken.jpeg" width="400"> |   100 |
+
+
+## Indian Food
+
+| Name                     | Description                                                                                                      |                                                          | Price   |
+|:-------------------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------:|
+| **Butter Chicken**       | Conjures a creamy, spiced global taste of Northern India.!                                                       | <img src ="images/Indian_food1.jpeg" width='400'>        |     220 |
+| **Tandoori Chicken**     | Punjab's culinary gem, visually appetizing, smoky-grilled delight symbolizing North Indian spice allure.         | <img src ="images/Indian_food2.jpeg" width='400'>        |     250 |
+| **Chicken Tikka Masala** | British multicultural symbol, Indian soul; tender tikka in creamy, spiced tomato medley, universally cherished.  | <img src ="images/Indian_food3.jpeg" width='400'>        |     290 |
+| **Rogan Josh**           | 'Red heat' in translation, slow-cooked meat in spiced Kashmiri red chili gravy, exuding warmth and color.        | <img src ="images/Indian_food4.jpeg" width='400'>        |     330 |
+| **Korma**                | Royal Mughal legacy, creamy aromatic curry with roots in 'to braise,' offering chicken, lamb, or paneer options. | <img src ="images/Indian_food5.jpeg" width='400'>        |     270 |
