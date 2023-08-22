@@ -4,6 +4,6 @@ Write a one or two sentence description of your cafe.
 
 ## [Menu](menu.md)
 
-| Cuisine                               | Contributor        |
-|:--------------------------------------|--------------------|
-|                                       |                    |
+| Cuisine                                 | Contributor              |
+|:----------------------------------------|--------------------------|
+| [Chinese Cuisine](menu.md#chinese-food) | Yasatsawin Kuldejtitipun |
