@@ -1,6 +1,6 @@
 ## Menu
 
- [Thai Food](#thai-food) | [Chinese Food](#chinese-food) | [Korean Food](#korean-food) | [Indian Food](#indian-food) | ...
+ [Thai Food](#thai-food) | [Chinese Food](#chinese-food) | [Korean Food](#korean-food) | [Indian Food](#indian-food) | [Japanese Food](#japanese-food)
 
 
 ## Thai Food
@@ -45,3 +45,14 @@
 | **Chicken Tikka Masala** | British multicultural symbol, Indian soul; tender tikka in creamy, spiced tomato medley, universally cherished.  | <img src ="images/Indian_food3.jpeg" width='400'>        |     290 |
 | **Rogan Josh**           | 'Red heat' in translation, slow-cooked meat in spiced Kashmiri red chili gravy, exuding warmth and color.        | <img src ="images/Indian_food4.jpeg" width='400'>        |     330 |
 | **Korma**                | Royal Mughal legacy, creamy aromatic curry with roots in 'to braise,' offering chicken, lamb, or paneer options. | <img src ="images/Indian_food5.jpeg" width='400'>        |     270 |
+
+
+## Japanese Food
+
+| Name           | Description                                                                             |                                                  | Price |
+|:---------------|-----------------------------------------------------------------------------------------|--------------------------------------------------|------:|
+| **Yakiniku**   | Grilled and marinated slices of meat, served for tableside grilling.                    | <img src = "images/yakiniku.jpeg" width="400">   |   330 |
+| **Curry rice** | A comforting dish of Japanese curry with meat and vegetables, served over steamed rice. | <img src = "images/curry.jpeg" width="400">      |   270 |
+| **Tonkatsu**   | Deep-fried, breaded pork cutlet with a crispy exterior and tender interior.             | <img src = "images/tonkatsu.jpeg" width="400">   |   180 |
+| **Udon**       | Thick wheat noodles in a savory broth with toppings.                                    | <img src = "images/udon.jpeg" width="400">       |   180 |
+| **Sashimi**    | Fresh, thinly sliced raw seafood, showcasing natural flavors and textures.              | <img src = "images/sashimi.jpeg" width="400">    |   300 |
