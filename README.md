@@ -4,6 +4,6 @@ Write a one or two sentence description of your cafe.
 
 ## [Menu](menu.md)
 
-| Cuisine                               | Contributor        |
-|:--------------------------------------|--------------------|
-|                                       |                    |
+| Cuisine                               | Contributor         |
+|:--------------------------------------|---------------------|
+| [indian Cuisine](menu.md#indian-food) | kanisorn kaokratana |
